@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Wireshark 抓包：手机传图给电脑 + 新版 QQ 心跳报文
+layout: home
+title: 首页
 ---
-
 # Wireshark 抓包：手机传图给电脑 + 新版 QQ 心跳报文
 
 > 环境：Windows 11 / Wireshark 4.6.9 / 新版 QQ（QQNT）/ 安卓手机 / 手机热点
